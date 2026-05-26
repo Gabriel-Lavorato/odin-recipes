@@ -9,13 +9,15 @@ html {
 }
 
 body {
+  background-color: #FBF5DD;
   margin: 0;
   font-family: "Garamond", serif;
 }
 
 header {
-  background-color: #978F66;
+  background-color: #E7E1B1;
   height: 80px;
+  border-bottom: 2px solid #306D29;
 }
 
 ul {
@@ -30,23 +32,23 @@ ul {
 .page-title {
   margin: 32px 64px;
   padding-bottom: 40px;
-  border-bottom: 2px solid #978F66;
+  border-bottom: 2px solid #306D29;
 }
 
 .header-logo,
 .page-title {
-  color: #622B14;
+  color: #0D530E;
   font-size: 40px;
   font-weight: normal;
 }
 
 .recipe-card {
   display: block;
-  background-color: #E4D6A9;
-  color: #622B14;
+  background-color: #E7E1B1;
+  color: black;
   width: 900px;
   padding: 30px;
-  border: 2px solid #978F66;
+  border: 2px solid #306D29;
   border-radius: 10px;
   margin: 16px;
   font-size: 24px;
