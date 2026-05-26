@@ -20,9 +20,19 @@ header {
 
 .header-logo {
   display: inline-block;
+  height: 40px;
+  margin: 20px 35px;
+}
+
+.page-title {
+  height: 80px;
+  margin: 32px 64px;
+  box-shadow: 0 2px #978F66;
+}
+
+.header-logo,
+.page-title {
   color: #622B14;
-  height: 30px;
-  margin: 25px 35px;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: lighter;
 }
