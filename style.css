@@ -18,6 +18,10 @@ header {
   height: 80px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .header-logo {
   display: inline-block;
   margin: 20px 35px;
@@ -34,4 +38,17 @@ header {
   color: #622B14;
   font-size: 40px;
   font-weight: normal;
+}
+
+.recipe-card {
+  display: block;
+  background-color: #E4D6A9;
+  color: #622B14;
+  width: 900px;
+  padding: 30px;
+  border: 2px solid #978F66;
+  border-radius: 10px;
+  margin: 16px;
+  font-size: 24px;
+  text-decoration: none;
 }
